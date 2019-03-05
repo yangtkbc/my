@@ -1,6 +1,6 @@
 {
 	"firstName": "John",
 	"lastName": "Doe",
-	"IsStop": 0,
+	"IsStop": 1,
 	"SendDelay": 5
 }
