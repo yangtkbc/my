@@ -1,4 +1,4 @@
 {
 	"IsStop": 1,
-	"SendDelay": 2
+	"SendDelay": 6
 }
